@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/zainali954/QR-code-component-frontend](https://github.com/zainali954/QR-code-component-frontend)
-- Live Site URL: [https://zainali954.github.io/QR-code-component-frontend/](https://zainali954.github.io/QR-code-component-frontend/)
+- Solution URL: [https://github.com/zainali954/NFT-preview-card-component](https://github.com/zainali954/NFT-preview-card-component)
+- Live Site URL: [https://zainali954.github.io/NFT-preview-card-component/](https://zainali954.github.io/NFT-preview-card-component/)
 
 ## My process
 
@@ -46,5 +46,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [zainali954.github.io](https://zainali954.github.io/QR-code-component-frontend/)
+- Website - [zainali954.github.io](https://zainali954.github.io/NFT-preview-card-component/)
 - Frontend Mentor - [@zainali954](https://www.frontendmentor.io/profile/zainali954)
